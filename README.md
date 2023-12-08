@@ -12,4 +12,4 @@ First enter the weight in kilograms, then the height in meters.
 
 ## Formula
 
-BMI = Weight (kg) / height (m) * height (m)
+BMI = weight (kg) / height (m) * height (m)
